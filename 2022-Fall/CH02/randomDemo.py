@@ -1,6 +1,8 @@
 import random
 import string
 
+# https://docs.python.org/3/library/string.html
+
 # [0, 1)
 
 # print(int(random.random() * 10))
