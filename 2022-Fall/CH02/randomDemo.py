@@ -1,4 +1,5 @@
 import random
+# comment comment
 import string
 
 # https://docs.python.org/3/library/string.html
