@@ -1,5 +1,9 @@
 import random
+<<<<<<< HEAD
 # comment
+=======
+# comment comment
+>>>>>>> refs/remotes/origin/main
 import string
 
 # https://docs.python.org/3/library/string.html
